@@ -144,3 +144,32 @@ h2 {
     font-weight: bold;
     color: #1F2937;
 }
+
+/* Section four */
+
+.section-four {
+    display: flex;
+    justify-content: center;
+}
+
+.call-to-action {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 960px;
+    gap: 224px;
+    margin: 96px 0;
+    padding: 48px;
+    border-radius: 10px;
+    background-color: #3882F6;
+    color: #F9FAF8;
+}
+
+.cta-button {
+    background-color: #3882F6;
+    border: 2px solid white;
+    border-radius: 10px;
+    padding: 12px 48px;
+    color:#F9FAF8;
+    font-weight: bold;
+}
